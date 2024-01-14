@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://14pkvgames.kyletezak.com/sitemap.xml
+Sitemap: http://14domino99.kyletezak.com/sitemap.xml
